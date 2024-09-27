@@ -6,3 +6,5 @@ public class Rectangle extends Shape {
         super(x, y);
     }
 }
+
+// test
